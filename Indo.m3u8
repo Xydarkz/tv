@@ -2,3 +2,5 @@
  ​#EXTM3U
 #EXTINF:-1 tvg-id="SCTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_89.png" group-title="General",SCTV (480p) [Not 24/7]
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+#EXTINF:-1 tvg-id="TransTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="General",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
