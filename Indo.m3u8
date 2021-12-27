@@ -16,3 +16,5 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.vidio
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1,LOCAL - [187] Indosiar
 rtp://@239.1.2.17:8076
+#EXTINF:30,FOX Action Movies HD
+http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
